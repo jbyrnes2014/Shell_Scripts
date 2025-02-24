@@ -1,0 +1,5 @@
+version: 1
+
+dn: cn=llavalette,ou=users,o=data25
+changetype: modify
+delete: oidpInstanceData
