@@ -1,0 +1,1 @@
+{"schemas":["urn:ietf:params:scim:api:messages:2.0:PatchOp"],"Operations":[{"op":"add","path":"urn:ietf:params:scim:schemas:core:2.0:Group:members","value":[{"displayName":"CHANGE_GIVENNAME","type":"User","value":"CHANGE_GIVENNAME","$ref":"/v2/ilm/ds/Users/CHANGE_ID"},{"displayName":"CHANGE_USER2","type":"User","value":"CHANGE_USER2","$ref":"/v2/ilm/ds/Users/CHANGE_UNIQUE"}]}]}
