@@ -42,7 +42,6 @@ This script is designed to collect data from a single identity source repeatedly
 
    ```
 3. Run the main script:
-
    ```bash
   ./run_script_100_times.sh    
    
