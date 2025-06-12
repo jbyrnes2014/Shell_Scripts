@@ -43,7 +43,7 @@ This script is designed to collect data from a single identity source repeatedly
    ```
 3. Run the main script:
    ```bash
-  ./run_script_100_times.sh
+   ./run_script_100_times.sh
 
    ```
 4. The script will run for 100 iterations, and the output will be saved to `collector.log`.
